@@ -1,4 +1,3 @@
-# Tres-en-raya-python
 # 🎮 Tres en Raya - Python
 
 Juego clásico del tres en raya (tic-tac-toe) desarrollado en Python para consola.  
