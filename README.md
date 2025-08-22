@@ -1,6 +1,6 @@
 # 🎮 Tres en Raya - Python
 
-Juego clásico del tres en raya (tic-tac-toe) desarrollado en Python para consola.  
+Juego clásico del tres en raya con IA (tic-tac-toe) desarrollado en Python para consola.  
 Dos jugadores se enfrentan por turnos hasta que uno gane o haya empate.
 
 ---
